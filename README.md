@@ -29,8 +29,8 @@ If you want to serve a different HTML file, you can simply replace the "index.ht
 
 If you want to use a different port number, you can edit the PORT variable in the "server.py" file to set it to the desired port number.
 
-License
+# License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Contributing
+# Contributing
 If you find a bug or want to suggest a feature, feel free to open an issue or submit a pull request. Contributions are always welcome!
